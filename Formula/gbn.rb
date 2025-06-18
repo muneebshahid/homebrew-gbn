@@ -8,7 +8,6 @@ class Gbn < Formula
 
   depends_on "git"
   depends_on "fzf" => :recommended
-  depends_on "gum" => :optional
 
   def install
     bin.install "gbn"

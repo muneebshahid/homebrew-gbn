@@ -11,7 +11,7 @@ brew install gbn
 
 ## What is gbn?
 
-gbn is a powerful interactive Git branch and commit switcher with rich previews. Navigate your Git history with ease using fzf, gum, or a pure shell interface.
+gbn is a powerful interactive Git branch and commit switcher with rich previews. Navigate your Git history with ease using fzf for fast and efficient selection.
 
 ## Formula
 
